@@ -5,8 +5,9 @@
 
 上田先生の授業で扱ったものを実装しました。下のリンクが参考文献です。
 
-ここにURL
+https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 
+https://github.com/ryuichiueda/robosys_device_drivers
 # 動作環境
 ・Raspberry Pi4 Model BはノートＰＣを中継して無線接続をしています。
 
