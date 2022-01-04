@@ -21,9 +21,15 @@ https://twitter.com/ryuichiueda/status/1178124814076149761
 
 ・OSはubuntu20.04.3 LTSです。
 
-　環境の構築方法は下のリンクを参考にしました。
- 
-ここにURL
+　ラズパイにubuntuのダウンロードは下のリンクを参考にしました。
+
+https://twitter.com/ryuichiueda/status/1250644188992962560
+
+・WSLはubuntu20.04 LTSです。
+
+下のリンクを参考にしました。
+
+https://shellgei.github.io/info/WSL20200328.html
 
 # 実験に必要なもの
 ・ラズパイ４　モデルB 
