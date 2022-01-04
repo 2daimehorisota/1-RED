@@ -19,9 +19,9 @@ https://github.com/ryuichiueda/robosys_device_drivers
  
 https://twitter.com/ryuichiueda/status/1178124814076149761
 
-・OSはubuntu20.04.3 LTSにて制作、実行します。
+・OSはubuntu20.04.3 LTSです。
 
-　下のリンクを参考にしました。
+　環境の構築方法は下のリンクを参考にしました。
  
 ここにURL
 
