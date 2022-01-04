@@ -3,9 +3,13 @@
 
 中身はLEDを光らせるデバイスドライバです。
 
-上田先生の授業で扱ったものを実装しました。下のリンクが参考文献です。
+上田先生の授業で扱ったものを実装しました。
+
+下のリンクが授業のスライド資料のURLです。
 
 https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
+
+下のリンクはデバイスドライバのサンプルです。
 
 https://github.com/ryuichiueda/robosys_device_drivers
 # 動作環境
