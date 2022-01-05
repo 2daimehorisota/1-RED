@@ -71,7 +71,7 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 LEDのアノード（足が長い方)を22ピンの方に指すようにしてください。
 
 # 実際の回路の様子
-![37513](https://user-images.githubusercontent.com/93900927/148147915-54790d3e-b307-44dc-bcaf-dc47ea65cf30.jpg)
+<img src="https://user-images.githubusercontent.com/93900927/148147915-54790d3e-b307-44dc-bcaf-dc47ea65cf30.jpg" width="320px">
 
 
 実際の回路です。
