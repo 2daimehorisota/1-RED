@@ -11,7 +11,7 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 
 
 # 動作環境
-・Raspberry Pi4 Model BはノートPC（Windows10)を経由してインターネットに接続してます。
+・Raspberry Pi4 Model BはノートPC（Windows10)を経由してインターネット接続してます。
 
 （Raspberry Pi4を今後ラズパイと略すことがあります）
 
@@ -22,7 +22,8 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 また、ラズパイもubunu20.04.3 LTSです。
 
 
-・ノートPCを経由してネット接続する方法のリンク
+
+・ノートPCを経由してインターネット接続する方法のリンク
 
 　https://twitter.com/ryuichiueda/status/1178124814076149761
 
@@ -41,6 +42,10 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 
 ・ノートPC（Windows10 / 64bit)
 
+.wifi環境（私は2.4GHzで通信）
+
+//回路周辺//
+
 ・ブレッドボード
 
 ・抵抗(220Ω）
@@ -48,8 +53,6 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 ・ジャンパー
 
 ・LED
-
-・wifi環境（私は2.4GHzで通信)
 
 
 # 回路を作成
