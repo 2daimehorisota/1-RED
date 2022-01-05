@@ -21,14 +21,14 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 
 また、ラズパイもubunu20.04.3 LTSです。
  
-# 実験に必要なもの
+# 使用した物
 ・ラズパイ４　モデルB 
 
 ・マイクロSDカード（ラズパイ用）
 
 ・ラズパイ用の電源（端子はtype-c)
 
-・ノートPC（Windows10.64bit)
+・ノートPC（Windows10 / 64bit)
 
 ・ブレッドボード
 
