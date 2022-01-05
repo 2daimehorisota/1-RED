@@ -42,9 +42,8 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 
 ・ノートPC（Windows10 / 64bit)
 
-.wifi環境（私は2.4GHzで通信）
+・wifi環境（私は2.4GHzで通信）
 
-//回路周辺//
 
 ・ブレッドボード
 
