@@ -12,13 +12,19 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 
 # 動作環境
 ・Raspberry Pi4 Model BはノートPC（Windows10)を経由してインターネットに接続してます。
-直接ラズパイとwifiルーターをLANで接続してもできます。
 
+（Raspberry Pi4を今後ラズパイと略すことがあります）
 
-・OSはubunu20.04.3 LTSです。
+直接ラズパイとwifiルーターをLANで接続してインターネットに繋いでもできます。
+
+・WSL2のubunu20.04.3 LTSを使用してます。
+
+また、ラズパイもubunu20.04.3 LTSです。
  
 # 実験に必要なもの
 ・ラズパイ４　モデルB 
+
+・マイクロSDカード（ラズパイ用）
 
 ・ラズパイ用の電源（端子はtype-c)
 
@@ -38,7 +44,8 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 # 回路を作成
 ここに写真
 
-# デバイスドライバをインストールする
+
+# デバイスドライバをインストール
 
 
 # LED点灯
@@ -47,7 +54,7 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 # LED消灯
 
 
-# デバイスドライバをアンインストールする
+# デバイスドライバをアンインストール
 
 
 # 実際にLEDを光らせる
