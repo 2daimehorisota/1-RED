@@ -123,6 +123,7 @@ https://user-images.githubusercontent.com/93900927/148161667-d3a722a9-95df-4fb0-
 
 # ライセンス
 Copyright (c) 2021 sota hori & Ryuichi Ueda
+
 This program is free software; you can redistribute it and or modify it under the terms of the GNU General Public License
 as published by the Free Software Foundation; either version 2 of the License, or any later version.
 
