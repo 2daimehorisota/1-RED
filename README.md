@@ -69,13 +69,14 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 をジャンパー線とブレッドボードを用いて回路を作ります。
 
 # 実際の回路の様子
-![37511](https://user-images.githubusercontent.com/93900927/148146768-5f1ae44f-2890-4852-8402-6e2a8f6985e3.jpg)
+![37513](https://user-images.githubusercontent.com/93900927/148147915-54790d3e-b307-44dc-bcaf-dc47ea65cf30.jpg)
+
 
 実際の回路です。
 
 22ピンを1ピン（3.3V　PWR）に変えると回路が出来てるかテストできます。
+![37512](https://user-images.githubusercontent.com/93900927/148147926-fa443a37-35db-4ebc-9f90-83efd19ad422.jpg)
 
-![37512](https://user-images.githubusercontent.com/93900927/148146799-a1f65ac5-ead1-4529-8db3-a519f8acb161.jpg)
 
 LEDが光れば回路が出来ています。
 
