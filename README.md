@@ -85,7 +85,7 @@ LEDが光れば回路が出来ています。
 
 # デバイスドライバをインストール
 
-$git clone 
+$git clone git@github.com:2daimehorisota/1-RED.git
 
 $cd 1-RED　//1-REDへ移動
 
