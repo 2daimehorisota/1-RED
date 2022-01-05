@@ -16,8 +16,6 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 
 （Raspberry Pi4を今後ラズパイと略すことがあります）
 
-直接ラズパイとwifiルーターをLANで接続してインターネットに繋いでもできます。
-
 ・WSL2のubunu20.04.3 LTSを使用してます。
 
 また、ラズパイもubunu20.04.3 LTSです。
