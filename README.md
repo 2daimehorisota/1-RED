@@ -55,9 +55,29 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 
 
 # 回路を作成
-ここに写真
-![37511](https://user-images.githubusercontent.com/93900927/148146640-254ad255-16d2-4b06-98e7-1cb89e91c49b.jpg)
+ラズパイ4のGPIOのピンアサインです。
 
+![raspberrypi-gpio-04-1](https://user-images.githubusercontent.com/93900927/148147003-532f64f9-c43a-40cf-b9d2-322d22060456.png)
+
+”DEVICE PLUS　ラズパイその他工作”　より引用
+
+
+図を参考に
+
+22ピン（GPIO25）→　LED　→　抵抗（220Ω） →　39ピン（GND）
+
+をジャンパー線とブレッドボードを用いて回路を作ります。
+
+# 実際の回路の様子
+![37511](https://user-images.githubusercontent.com/93900927/148146768-5f1ae44f-2890-4852-8402-6e2a8f6985e3.jpg)
+
+実際の回路です。
+
+22ピンを1ピン（3.3V　PWR）に変えると回路が出来てるかテストできます。
+
+![37512](https://user-images.githubusercontent.com/93900927/148146799-a1f65ac5-ead1-4529-8db3-a519f8acb161.jpg)
+
+LEDが光れば回路が出来ています。
 
 # デバイスドライバをインストール
 
