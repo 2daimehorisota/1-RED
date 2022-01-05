@@ -9,6 +9,7 @@
 
 https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 
+（このリポジトリが1-REDなのは誤爆です。許してください）
 
 # 動作環境
 ・Raspberry Pi4 Model BはノートPC（Windows10)を経由してインターネット接続してます。
