@@ -35,28 +35,28 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 
 
 # 使用した物
-・ラズパイ４　モデルB 
+・Raspberry Pi4 Model B　× 1
 
-・マイクロSDカード（ラズパイ用）
+・マイクロSDカード（ラズパイ用） × 1
 
-・ラズパイ用の電源（端子はtype-c)
+・ラズパイ用の電源（端子はtype-c) × 1
 
-・ノートPC（Windows10 / 64bit)
+・ノートPC（Windows10 / 64bit) × 1
 
 ・wifi環境（私は2.4GHzで通信）
 
+・ブレッドボード × 1
 
-・ブレッドボード
+・抵抗(220Ω） × 1
 
-・抵抗(220Ω）
+・ジャンパー × 2
 
-・ジャンパー
-
-・LED
+・LED × 1
 
 
 # 回路を作成
 ここに写真
+![37511](https://user-images.githubusercontent.com/93900927/148146640-254ad255-16d2-4b06-98e7-1cb89e91c49b.jpg)
 
 
 # デバイスドライバをインストール
