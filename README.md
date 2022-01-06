@@ -92,26 +92,31 @@ LEDが光れば回路が出来ています。
 
 # デバイスドライバをインストール
 
-`$git clone git@github.com:2daimehorisota/1-RED.git`
+    $git clone git@github.com:2daimehorisota/1-RED.git
 
     $cd 1-RED　//1-REDへ移動
-$cd myled　//myledへ移動
-$ls  //Makefileとmyled.cがあるか確認
-$make
-$sudo insmod myled.ko
-$sudo chmod 666 /dev/myled0
+    
+    $cd myled　//myledへ移動
+
+    $ls  //Makefileとmyled.cがあるか確認
+    
+    $make
+    
+    $sudo insmod myled.ko
+    
+    $sudo chmod 666 /dev/myled0
 
 これで準備完了です。
 # LED点灯
-　　　　$echo 1 > /dev/myled0
+    $echo 1 > /dev/myled0
 
 # LED消灯
-　　　　$echo 0 > /dev/myled0
+    $echo 0 > /dev/myled0
 
 # デバイスドライバをアンインストール
-　　　　$sudo rmmod myled
+    $sudo rmmod myled
 
-　　　　$make clean
+    $make clean
 
 これでアンインストールは完了です。
 
