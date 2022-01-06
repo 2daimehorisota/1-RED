@@ -11,7 +11,7 @@
 
 https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 
-（このリポジトリが1-REDなのは誤爆です。許してください）
+
 
 # 動作環境
 ・Raspberry Pi4 Model BはノートPC（Windows10)を経由してインターネット接続してます。
@@ -92,31 +92,31 @@ LEDが光れば回路が出来ています。
 
 # デバイスドライバをインストール
 
-$git clone git@github.com:2daimehorisota/1-RED.git
+　　　　$git clone git@github.com:2daimehorisota/1-RED.git
+　
+　　　　$cd 1-RED　//1-REDへ移動
 
-$cd 1-RED　//1-REDへ移動
+　　　　$cd myled　//myledへ移動
 
-$cd myled　//myledへ移動
+　　　　$ls  //Makefileとmyled.cがあるか確認
 
-$ls  //Makefileとmyled.cがあるか確認
+　　　　$make
 
-$make
+　　　　$sudo insmod myled.ko
 
-$sudo insmod myled.ko
-
-$sudo chmod 666 /dev/myled0
+　　　　$sudo chmod 666 /dev/myled0
 
 これで準備完了です。
 # LED点灯
-$echo 1 > /dev/myled0
+　　　　$echo 1 > /dev/myled0
 
 # LED消灯
-$echo 0 > /dev/myled0
+　　　　$echo 0 > /dev/myled0
 
 # デバイスドライバをアンインストール
-$sudo rmmod myled
+　　　　$sudo rmmod myled
 
-$make clean
+　　　　$make clean
 
 これでアンインストールは完了です。
 
