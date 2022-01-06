@@ -5,6 +5,8 @@
 
 上田先生の授業で扱ったサンプルを実装しました。
 
+
+
 下のリンクが授業のスライド資料のURLです。
 
 https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
@@ -19,6 +21,7 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 ・WSL2のubunu20.04.3 LTSを使用してます。
 
 また、ラズパイもubunu20.04.3 LTSです。
+
 
 
 
@@ -67,6 +70,8 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 をジャンパー線とブレッドボードを用いて回路を作ります。
 
 LEDのアノード（足が長い方)を22ピンの方に指すようにしてください。
+
+
 
 ・参考にしたサイトのリンク
 
