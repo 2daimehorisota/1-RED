@@ -119,7 +119,7 @@ https://www.youtube.com/watch?v=jcV5P24OaPI
 
 
 # COPYING
-
+//Copyright (c) 2022 Hori sota & Ryuichi Ueda
 
 GNU General Public License v3.0
 
