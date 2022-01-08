@@ -1,4 +1,4 @@
-//Copyright (c) 2021 Hori sota & Ryuichi Ueda
+//Copyright (c) 2022 Hori sota & Ryuichi Ueda
 
 //This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or any later version.
 
