@@ -15,7 +15,7 @@
 #include <linux/io.h>
 
 
-MODULE_AUTHOR("Ryuichi Ueda & hori sota");
+MODULE_AUTHOR("Ryuichi Ueda ");
 MODULE_DESCRIPTION("driver for LED control");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.0.1");
