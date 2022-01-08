@@ -132,3 +132,4 @@ https://www.youtube.com/watch?v=jcV5P24OaPI
 # ライセンス
 Copyright (c) 2021 sota hori & Ryuichi Ueda
 
+COPYING
