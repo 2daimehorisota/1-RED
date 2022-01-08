@@ -56,11 +56,11 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 
 
 # 回路を作成
-ラズパイ4のGPIOのピンアサインです。
 
 
+<img src="https://user-images.githubusercontent.com/93900927/148147915-54790d3e-b307-44dc-bcaf-dc47ea65cf30.jpg" width="600px">
 
-図を参考に
+実際の回路です。
 
 22ピン（GPIO25）→　LED　→　抵抗（220Ω） →　39ピン（GND）
 
@@ -71,10 +71,6 @@ LEDのアノード（足が長い方)を22ピンの方に指すようにして�
 
 
 # 実際の回路の様子
-<img src="https://user-images.githubusercontent.com/93900927/148147915-54790d3e-b307-44dc-bcaf-dc47ea65cf30.jpg" width="600px">
-
-
-実際の回路です。
 
 22ピンを1ピン（3.3V　PWR）に変えると回路が出来てるかテストできます。
 
