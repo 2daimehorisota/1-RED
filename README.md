@@ -118,7 +118,7 @@ https://user-images.githubusercontent.com/93900927/148161667-d3a722a9-95df-4fb0-
 https://www.youtube.com/watch?v=jcV5P24OaPI
 
 
-# ライセンス
+# COPYING
 
 
 GNU General Public License v3.0
