@@ -58,9 +58,6 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 # 回路を作成
 ラズパイ4のGPIOのピンアサインです。
 
-<img src="https://user-images.githubusercontent.com/93900927/148147003-532f64f9-c43a-40cf-b9d2-322d22060456.png" width="600px">
-
-”DEVICE PLUS　ラズパイその他工作”　より引用
 
 
 図を参考に
@@ -72,10 +69,6 @@ https://ryuichiueda.github.io/robosys2020/lesson7_device_driver.html#/
 LEDのアノード（足が長い方)を22ピンの方に指すようにしてください。
 
 
-
-・参考にしたサイトのリンク
-
-https://deviceplus.jp/hobby/raspberrypi-gpio/
 
 # 実際の回路の様子
 <img src="https://user-images.githubusercontent.com/93900927/148147915-54790d3e-b307-44dc-bcaf-dc47ea65cf30.jpg" width="600px">
